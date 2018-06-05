@@ -1,5 +1,20 @@
 # hello
-Hello bongs
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 
-This is a test to see if GIT/ GITHUB works.
-b
+import com.mycompany.mavenproject1.*;
+
+/**
+ *
+ * @author Bongani Mangwane
+ */
+public class main {
+    
+    public static void main(String[] ARGS)
+    {
+       System.out.print("Hello world");
+    }
+}
