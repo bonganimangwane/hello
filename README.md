@@ -1,4 +1,4 @@
 # hello
 Hello bongs
 
-This is a test if GIT/ GITHUB to see if this works.
+This is a test to see if GIT/ GITHUB works.
